@@ -1,0 +1,140 @@
+[
+    {
+        "title": "New Item", 
+        "id": 1, 
+        "description": "This is a book", 
+        "publishDate": "2017-05-22", 
+        "comments": [
+                    {"id": 1, "text": "comment 1"}, 
+                    {"id": 2, "text": "comment 2" }
+                    ],
+        "image": ""
+    },
+    {
+        "title": "Title", 
+        "id": 2, 
+        "description": "This is a book", 
+        "publishDate": "2017-05-20", 
+        "image": ""
+    },
+    {
+        "title": "Chai", 
+        "id": 3, 
+        "description": "This is a book", 
+        "publishDate": "2017-05-20", 
+        "image": "/images/2.jpg"
+    },
+    {
+        "title": "New", 
+        "id": 4, 
+        "description": "This is a book", 
+        "publishDate": "2017-05-20", 
+        "image": "/images/2.jpg"
+    },
+       {
+           "title": "Chai", 
+        "id": 5, 
+        "description": "This is a book", 
+        "publishDate": "2017-05-20", 
+        "image": "/images/2.jpg"
+    },
+    {
+        "title": "copy", 
+        "id": 6, 
+        "description": "This is a book", 
+        "publishDate": "2017-05-20", 
+        "image": "/images/2.jpg"
+    },
+ 
+    {
+        "title": "Chai", 
+        "id": 7, 
+        "description": "This is a book", 
+        "publishDate": "2017-05-20", 
+        "image": "/images/2.jpg"
+    },
+    {
+        "title": "copy", 
+        "id": 8, 
+        "description": "This is a book", 
+        "publishDate": "2017-05-20", 
+        "image": "/images/2.jpg"
+    },
+ 
+    {
+        "title": "Chai", 
+        "id": 9, 
+        "description": "This is a book", 
+        "publishDate": "2017-05-20", 
+        "image": "/images/2.jpg"
+    },
+    {
+        "title": "copy", 
+        "id": 10, 
+        "description": "This is a book", 
+        "publishDate": "2017-05-20", 
+        "image": "/images/2.jpg"
+    },
+ 
+    {
+        "title": "Chai", 
+        "id": 11, 
+        "description": "This is a book", 
+        "publishDate": "2017-05-20", 
+        "image": "/images/2.jpg"
+    },
+    {
+        "title": "copy", 
+        "id": 12, 
+        "description": "This is a book", 
+        "publishDate": "2017-05-20", 
+        "image": "/images/2.jpg"
+    },
+ 
+    {
+        "title": "Chai", 
+        "id": 13, 
+        "description": "This is a book", 
+        "publishDate": "2017-05-20", 
+        "image": "/images/2.jpg"
+    },
+    {
+        "title": "copy", 
+        "id": 14, 
+        "description": "This is a book", 
+        "publishDate": "2017-05-20", 
+        "image": "/images/2.jpg"
+    },
+ 
+    {
+        "title": "Chai", 
+        "id": 15, 
+        "description": "This is a book", 
+        "publishDate": "2017-05-20", 
+        "image": "/images/2.jpg"
+    },
+    {
+        "title": "Lite", 
+        "id": 16, 
+        "description": "This is a book", 
+        "publishDate": "2017-05-20", 
+        "image": "/images/2.jpg"
+    },
+ 
+    {
+        "title": "Chai", 
+        "id": 17, 
+        "description": "This is a book", 
+        "publishDate": "2017-05-20", 
+        "image": "/images/2.jpg"
+    },
+    {
+        "title": "Lite", 
+        "id": 18, 
+        "description": "This is a book", 
+        "publishDate": "2017-05-20", 
+        "image": "/images/2.jpg"
+    }
+
+ 
+]
